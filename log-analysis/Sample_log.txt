@@ -1,0 +1,6 @@
+2025-11-18 12:01:33 FAILED username=alice ip=192.168.1.10
+2025-11-18 12:02:10 FAILED username=bob ip=192.168.1.11
+2025-11-18 12:02:45 FAILED username=alice ip=192.168.1.10
+2025-11-18 12:03:01 SUCCESS username=alice ip=192.168.1.10
+2025-11-18 12:04:15 FAILED username=charlie ip=192.168.1.12
+2025-11-18 12:05:20 FAILED username=alice ip=192.168.1.10
